@@ -1,4 +1,4 @@
-# Double-cask Scotch-Tape
+# Double-Cask Scotch-Tape
 
 ## A Poem for the Weekend
 
